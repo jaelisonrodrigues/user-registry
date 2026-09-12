@@ -7,8 +7,8 @@
 
 // ---- Dados do evento ----
 // Gere um novo UUID v4 para cada evento (ex.: https://www.uuidgenerator.net/)
-define('EVENTO_UUID', '11111111-1111-1111-1111-111111111111');
-define('EVENTO_DESCRICAO', 'Nome do Evento Aqui');
+define('EVENTO_UUID', '4b960ca7-7031-4355-b1d9-062339aa8265');
+define('EVENTO_DESCRICAO', 'CRA - Conselho Regional de Administração');
 
 // ---- Conexão com o banco de dados ----
 define('DB_HOST', 'gamificar4.mysql.dbaas.com.br');

@@ -8,7 +8,7 @@
 // ---- Dados do evento ----
 // Gere um novo UUID v4 para cada evento (ex.: https://www.uuidgenerator.net/)
 define('EVENTO_UUID', '4b960ca7-7031-4355-b1d9-062339aa8265');
-define('EVENTO_DESCRICAO', 'CRA - Conselho Regional de Administração');
+define('EVENTO_DESCRICAO', 'Palestra em comemoração ao mês do Administrador: O novo Mindset do profissional de Administração na era da IA');
 // Data do evento, usada no certificado. Formato: AAAA-MM-DD
 define('EVENTO_DATA', '2026-09-12');
 
